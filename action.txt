@@ -1,2 +1,3 @@
 Kofi is going to school.
 Kofi is eating.
+Kofi is running.
